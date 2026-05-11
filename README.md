@@ -7,9 +7,12 @@ Professional smart contract security audits.
 ## Services
 - Solidity (Ethereum, L2s, Base)
 - Rust (Solana, Stellar/Soroban)
-- -1,000 per contract, PayPal accepted
+- Pricing: $250-$1,000 per contract, PayPal accepted
 
-**16 findings submitted on Morpho (.5M bounty), 32+ total findings across 5 protocols.**
+**32+ findings submitted across 5 protocols:**
+- Morpho ($2.5M bounty): 16 findings (1 Critical, 2 High)
+- Moonwell Comptroller: 16 findings (1 Critical)
+- Paxos, Coinbase, K2 C4: Additional findings
 
 ---
 *Available for security audit engagements.*
